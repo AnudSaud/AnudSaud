@@ -1,31 +1,58 @@
 # Anud Saud
+Full-Stack Developer | 6 Production Systems Shipped | Fast Execution
 
-AI-First Developer | Fast Execution | Production Systems
+## About Me
 
-## About
+Full-stack developer shipping production applications for international clients. I specialize in rapid MVP development and business automation systems. Built complex workforce management platform in 3 weeks that typically requires 3-4 months.
 
-I build production applications through AI-augmented development, delivering working systems in 2-4 weeks. Built 1 complex workforce management system and 5+ business websites for international clients.
+**What I Do:**
+- Build production-ready web applications
+- Rapid prototyping and MVP development  
+- Business automation and workflow tools
+- Full-stack development from requirements to deployment
 
-**Live Work:**
-- [ajportal.ca](https://ajportal.ca) - Workforce Management Platform (Canada)
-- [delixia.net](https://delixia.net) - Product Showcase (Saudi Arabia)  
-- [canadian-chimney.ca](https://canadian-chimney.ca) - Business Website (Canada)
-- [bodymedia.in](https://bodymedia.in) - Brand Website (India)
+## Live Production Systems
 
-## Currently Building
+### Workforce Management Platform
+**[ajportal.ca](https://ajportal.ca)** - AI-powered field service management (Canada)
+- Automated job scheduling and worker dispatch
+- Real-time dashboard and tracking
+- Automated invoicing and notifications
+- **Impact:** Reduced coordination time by 87% (2 hours → 15 minutes per job)
 
-- Multi-vendor grocery platform (4 interconnected apps)
-- Developer tools for Claude Code users
-- Content automation systems
+### Business Websites & E-Commerce
+- **[delixia.net](https://delixia.net)** - Product showcase platform (Saudi Arabia)
+- **[canadian-chimney.ca](https://canadian-chimney.ca)** - Service business website (Canada)  
+- **[bodymedia.in](https://bodymedia.in)** - Custom clothing brand (India)
+- **[panachenewage.com](https://panachenewage.com)** - Business website
+- **[kitchengasfab.com](https://kitchengasfab.com)** - Product catalog
 
 ## Tech Stack
 
-React, Node.js, Python, TypeScript, PostgreSQL, AWS
+**Frontend:** React.js, Next.js, React Native, TypeScript, JavaScript  
+**Backend:** Node.js, Express, PHP  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Tools:** Git, AWS, n8n, Modern development tools
+
+## What I Build
+
+✅ Workforce management systems  
+✅ Business automation tools  
+✅ E-commerce and business websites  
+✅ Workflow automation with n8n  
+✅ API integrations and webhooks  
+✅ Real-time dashboards
 
 ## Approach
 
-AI-first development enabling rapid prototyping and iteration across multiple tech stacks. Focus on shipping working products, not memorizing frameworks.
+Fast iteration, production-first mindset. I focus on shipping working products that solve real business problems. Typical delivery: 2-4 weeks from requirements to production.
+
+## Contact
+
+📫 **Email:** anudsaud07@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/anudsaud](https://linkedin.com/in/anudsaud)  
+📍 **Location:** Bengaluru, Karnataka, India
 
 ---
 
-📫 anudsaud07@gmail.com | [LinkedIn](https://linkedin.com/in/anudsaud)
+**Available for:** Full-stack development roles | Freelance projects | Contract work
