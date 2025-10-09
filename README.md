@@ -142,7 +142,7 @@ Developer tooling for context management:
 📧 **Email:** [anudsaud07@gmail.com](mailto:anudsaud07@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/anudsaud](https://linkedin.com/in/anudsaud)  
 📍 **Location:** Bengaluru, Karnataka, India  
-🌐 **Portfolio:** Live systems at [ajportal.ca](https://ajportal.ca), [delixia.net](https://delixia.net), and more
+🌐 **Portfolio:** Live systems at [haskia.ca](https://haskia.ca), [delixia.net](https://delixia.net), and more
 
 ---
 
