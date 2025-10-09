@@ -100,12 +100,6 @@ Developer tooling for context management:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnudSaud&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Development Approach
 
 **Speed:** Complex MVP in 2-4 weeks | Working prototypes in hours  
