@@ -20,7 +20,7 @@ AI-first full-stack engineer who ships production systems using modern AI develo
 ## 🚀 Live Production Systems
 
 ### 🎯 AI-Powered Workforce Management Platform
-**[ajportal.ca](https://ajportal.ca)** - Field service management for Aj Jobs & Services (Canada)
+**[haskia.ca](https://haskia.ca)** - Field service management for Aj Jobs & Services (Canada)
 
 - Built complete platform in **3 weeks** (typically 3-4 months project)
 - AI-powered automated calling system for job scheduling and worker dispatch
