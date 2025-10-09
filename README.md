@@ -118,7 +118,7 @@ Developer tooling for context management:
 
 ## 📈 Impact & Results
 
-🎯 **87% time reduction** - AJ Portal workforce coordination  
+🎯 **87% time reduction** - Haskia Portal workforce coordination  
 🚀 **3-week delivery** - Complex system typically requiring 3-4 months  
 ⚡ **8-hour build** - Complete n8n automation system  
 🌍 **International clients** - Saudi Arabia, Canada, India  
