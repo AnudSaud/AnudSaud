@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-AI-first full-stack engineer who ships production systems using modern AI development tools (Claude, Cursor, Claude Code). Built 6 live production systems since 2023. I specialize in rapid MVP development, workflow automation, and business systems that solve real problems.
+AI-first full-stack engineer who ships production systems using modern AI development tools (Claude, Cursor, Claude Code). Built production systems for real businesses since 2023. I specialize in rapid MVP development, workflow automation, and marketplace platforms that solve real problems.
 
 **Philosophy:** Ship fast, iterate in production, fix in real-time. Production is the best QA environment.
 
@@ -19,15 +19,17 @@ AI-first full-stack engineer who ships production systems using modern AI develo
 
 ## 🚀 Live Production Systems
 
-### 🎯 AI-Powered Workforce Management Platform
-**[haskia.ca](https://haskia.ca)** - Field service management for Aj Jobs & Services (Canada)
+### 🎯 AI-Powered Home Services Marketplace
+**[haskia.ca](https://haskia.ca)** - Two-sided marketplace platform for Aj Jobs & Services (Canada)
 
-- Built complete platform in **3 weeks** (typically 3-4 months project)
-- AI-powered automated calling system for job scheduling and worker dispatch
-- Real-time dashboard with job tracking and worker coordination
-- Automated SMS/email notifications and invoice generation
-- **Business Impact:** 87% reduction in coordination time (2 hours → 15 minutes per job)
-- **Live for 6+ months**, serving real customers daily
+- Built complete platform in **4 weeks** (Uber/Urban Company model for home repairs)
+- AI-powered calling system that autonomously answers customer calls and schedules jobs through natural conversation
+- Broker dashboard for real-time tracking, one-click job assignment, payment processing, marketplace operations
+- Technician interface with Uber-like availability system, job assignments, status updates, earnings tracking
+- Complete workflow: Customer calls AI → Broker assigns job → Technician completes work → Payments processed
+- **Used in production** by broker and independent contractor technicians
+- Real marketplace operations with real money made
+- Eliminated missed customer calls and lost jobs for the business
 
 **Tech Stack:** PHP, MySQL, JavaScript, SignalWire API, LLM integrations
 
@@ -40,6 +42,8 @@ Production websites shipped and hosted:
 - **[bodymedia.in](https://bodymedia.in)** - Custom clothing brand (India)
 - **[panachenewage.com](https://panachenewage.com)** - Business services
 - **[kitchengasfab.com](https://kitchengasfab.com)** - Product catalog
+
+All delivered in 1-2 weeks each.
 
 ---
 
@@ -69,10 +73,10 @@ Production websites shipped and hosted:
 
 ## 💡 What I Build
 
-✅ **Workforce Management Systems** - Job scheduling, worker dispatch, real-time tracking  
+✅ **Marketplace Platforms** - Two-sided/multi-sided platforms with complex workflows  
 ✅ **Business Automation Tools** - Workflow automation, API integrations, n8n workflows  
 ✅ **E-Commerce & Business Websites** - Full-stack web applications  
-✅ **AI-Powered Features** - Automated calling, intelligent routing, agent orchestration  
+✅ **AI-Powered Features** - Autonomous calling systems, intelligent routing, agent orchestration  
 ✅ **Real-Time Dashboards** - WebSocket-based coordination and monitoring  
 ✅ **Internal Tools** - Productivity tools, request management systems
 
@@ -86,23 +90,23 @@ Built working prototype in 8 hours demonstrating:
 - Conditional logic and error handling
 - Production-ready architecture with complete functionality
 
-### Multi-Agent Content Orchestration
-Exploring production-grade multi-agent workflows:
-- Content pipeline automation (RSS → summarization → scheduling)
-- Human-in-the-loop approval workflows
-- Testing agent orchestration limits and reliability
+### Multi-Vendor Grocery Platform
+Building functional MVP to explore multi-app coordination:
+- Customer app (React Native), store dashboard (Next.js), delivery app, store app
+- Core ordering flow functional
+- Learning full-stack complexity at scale
 
 ### Claude Vault CLI
 Developer tooling for context management:
 - Solving Claude Code's context window limitations
 - Predictive monitoring and automatic state preservation
-- Open-source tool for AI-first developers
+- Research project for AI-first developers
 
 ---
 
 ## 🎯 Development Approach
 
-**Speed:** Complex MVP in 2-4 weeks | Working prototypes in hours  
+**Speed:** Complex systems in 2-4 weeks | Working prototypes in hours  
 **Methodology:** AI-augmented development for rapid iteration  
 **Focus:** Ship working products → Gather feedback → Iterate fast  
 **Quality:** Production-first mindset with real user testing
@@ -118,11 +122,11 @@ Developer tooling for context management:
 
 ## 📈 Impact & Results
 
-🎯 **87% time reduction** - Haskia Portal workforce coordination  
-🚀 **3-week delivery** - Complex system typically requiring 3-4 months  
+🚀 **4-week delivery** - Complex marketplace platform  
 ⚡ **8-hour build** - Complete n8n automation system  
 🌍 **International clients** - Saudi Arabia, Canada, India  
-📦 **6 production systems** - All live and serving real users
+📦 **Production systems** - All live and serving real users  
+🤖 **AI-powered automation** - Autonomous calling and scheduling
 
 ---
 
@@ -130,8 +134,8 @@ Developer tooling for context management:
 
 - Full-stack engineering roles at AI-first companies
 - Early-stage startups building with AI/automation
-- Contract work on production systems and MVPs
-- Rapid prototyping and product validation projects
+- Product engineering teams that value shipping speed
+- Companies deploying AI agents at scale
 
 **Ideal fit:** Fast-paced teams that value shipping speed, AI-native development, and production-first mindset.
 
