@@ -1,5 +1,5 @@
 # Anud Saud
-**AI-First Full-Stack Engineer | Ship Fast, Iterate in Production**
+**Product Builder | System Architecture | Production Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anudsaud-blue)](https://linkedin.com/in/anudsaud)
 [![Email](https://img.shields.io/badge/Email-anudsaud07%40gmail.com-red)](mailto:anudsaud07@gmail.com)
@@ -7,149 +7,76 @@
 
 ---
 
-## 👋 About Me
+## About
 
-AI-first full-stack engineer who ships production systems using modern AI development tools (Claude, Cursor, Claude Code). Built production systems for real businesses since 2023. I specialize in rapid MVP development, workflow automation, and marketplace platforms that solve real problems.
+Product builder who ships production systems for international clients. Specialize in requirements gathering, system architecture, and end-to-end implementation. Focus on translating business problems into working solutions.
 
-**Philosophy:** Ship fast, iterate in production, fix in real-time. Production is the best QA environment.
-
-**Delivery Speed:** Complex systems in 2-4 weeks | Working prototypes in hours | Production-first mindset
+**Approach:** Understand the problem → Design the solution → Build fast → Deploy → Iterate based on usage
 
 ---
 
-## 🚀 Live Production Systems
+## Production Systems
 
-### 🎯 AI-Powered Home Services Marketplace
-**[haskia.ca](https://haskia.ca)** - Two-sided marketplace platform for Aj Jobs & Services (Canada)
+### Workforce Management Platform
+**[haskia.ca](https://haskia.ca)** - Canadian multi-site service business with 10+ locations
 
-- Built complete platform in **4 weeks** (Uber/Urban Company model for home repairs)
-- AI-powered calling system that autonomously answers customer calls and schedules jobs through natural conversation
-- Broker dashboard for real-time tracking, one-click job assignment, payment processing, marketplace operations
-- Technician interface with Uber-like availability system, job assignments, status updates, earnings tracking
-- Complete workflow: Customer calls AI → Broker assigns job → Technician completes work → Payments processed
-- **Used in production** by broker and independent contractor technicians
-- Real marketplace operations with real money made
-- Eliminated missed customer calls and lost jobs for the business
+Complete job lifecycle system:
+- Customer request intake via API from multiple websites
+- Job scheduling and technician assignment
+- Parts management and inventory tracking
+- Automated invoice and job report generation
+- Real-time operations dashboards
+- AI calling system (SignalWire API) - handles customer calls and schedules jobs
 
-**Tech Stack:** PHP, MySQL, JavaScript, SignalWire API, LLM integrations
+**Timeline:** MVP in 4 weeks, features added over 3 months  
+**Status:** Live for 1+ year processing daily operations  
+**Tech:** PHP, MySQL, JavaScript, SignalWire API
 
-### 🌐 Business Websites for International Clients
+### Business Websites - International Clients
 
-Production websites shipped and hosted:
-
-- **[delixia.net](https://delixia.net)** - Product showcase platform (Saudi Arabia)
-- **[canadian-chimney.ca](https://canadian-chimney.ca)** - Service business website (Canada)
+- **[delixia.net](https://delixia.net)** - Product showcase (Saudi Arabia)
+- **[canadian-chimney.ca](https://canadian-chimney.ca)** - Service business (Canada)
 - **[bodymedia.in](https://bodymedia.in)** - Custom clothing brand (India)
-- **[panachenewage.com](https://panachenewage.com)** - Business services
-- **[kitchengasfab.com](https://kitchengasfab.com)** - Product catalog
+- **[panachenewage.com](https://panachenewage.com)**, **[kitchengasfab.com](https://kitchengasfab.com)**
 
-All delivered in 1-2 weeks each.
+### Workflow Automation
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### AI Development Tools
-- **Claude, Claude Code, Cursor** - Primary development environment since March 2023
-- **n8n** - Workflow automation and orchestration
-- **GitHub Copilot** - Code assistance
-- Multi-agent systems, LLM integration, prompt engineering
+Built n8n automation system with multi-step workflows, conditional routing, priority calculation, and automated tracking.
 
 ---
 
-## 💡 What I Build
+## Tech Stack
 
-✅ **Marketplace Platforms** - Two-sided/multi-sided platforms with complex workflows  
-✅ **Business Automation Tools** - Workflow automation, API integrations, n8n workflows  
-✅ **E-Commerce & Business Websites** - Full-stack web applications  
-✅ **AI-Powered Features** - Autonomous calling systems, intelligent routing, agent orchestration  
-✅ **Real-Time Dashboards** - WebSocket-based coordination and monitoring  
-✅ **Internal Tools** - Productivity tools, request management systems
+**Frontend**  
+React • Next.js • React Native • TypeScript • JavaScript
 
----
+**Backend**  
+Node.js • Express • PHP • RESTful APIs
 
-## 🔬 Current Projects & Experiments
+**Databases**  
+PostgreSQL • MySQL • Redis
 
-### Tool Request Management System | n8n
-Built working prototype in 8 hours demonstrating:
-- Multi-step workflow automation (webhook → routing → notifications → tracking)
-- Conditional logic and error handling
-- Production-ready architecture with complete functionality
-
-### Multi-Vendor Grocery Platform
-Building functional MVP to explore multi-app coordination:
-- Customer app (React Native), store dashboard (Next.js), delivery app, store app
-- Core ordering flow functional
-- Learning full-stack complexity at scale
-
-### Claude Vault CLI
-Developer tooling for context management:
-- Solving Claude Code's context window limitations
-- Predictive monitoring and automatic state preservation
-- Research project for AI-first developers
+**Cloud & Tools**  
+AWS (RDS, S3) • Git • n8n • Claude Code • Cursor
 
 ---
 
-## 🎯 Development Approach
+## Current Projects
 
-**Speed:** Complex systems in 2-4 weeks | Working prototypes in hours  
-**Methodology:** AI-augmented development for rapid iteration  
-**Focus:** Ship working products → Gather feedback → Iterate fast  
-**Quality:** Production-first mindset with real user testing
+**Multi-Vendor Grocery Platform**  
+System architecture for 4 interconnected apps (customer, store dashboard, delivery, store operations)
 
-**Strengths:**
-- Rapid prototyping and MVP development
-- Full-stack ownership (frontend, backend, deployment)
-- Business automation and workflow design
-- AI integration and agent orchestration
-- Fast execution with modern development tools
+**Twitter Automation Bot**  
+Content pipeline with AI generation, tone optimization, and human review workflow
 
 ---
 
-## 📈 Impact & Results
+## Contact
 
-🚀 **4-week delivery** - Complex marketplace platform  
-⚡ **8-hour build** - Complete n8n automation system  
-🌍 **International clients** - Saudi Arabia, Canada, India  
-📦 **Production systems** - All live and serving real users  
-🤖 **AI-powered automation** - Autonomous calling and scheduling
-
----
-
-## 💼 Open To
-
-- Full-stack engineering roles at AI-first companies
-- Early-stage startups building with AI/automation
-- Product engineering teams that value shipping speed
-- Companies deploying AI agents at scale
-
-**Ideal fit:** Fast-paced teams that value shipping speed, AI-native development, and production-first mindset.
-
----
-
-## 📫 Get In Touch
-
-📧 **Email:** [anudsaud07@gmail.com](mailto:anudsaud07@gmail.com)  
+📧 **Email:** anudsaud07@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/anudsaud](https://linkedin.com/in/anudsaud)  
-📍 **Location:** Bengaluru, Karnataka, India  
-🌐 **Portfolio:** Live systems at [haskia.ca](https://haskia.ca), [delixia.net](https://delixia.net), and more
+📍 **Location:** Bengaluru, Karnataka, India
 
 ---
-
-**"Ship fast, iterate in production, build with AI. That's how modern engineering works."**
 
 ⭐️ From [AnudSaud](https://github.com/AnudSaud)
